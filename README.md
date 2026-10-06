@@ -16,7 +16,7 @@ Llogaria lokale e administratorit krijohet një herë duke vendosur ADMIN_EMAIL 
 
 ## Dërgesat
 
-Çmimet bazë të produkteve ruhen në denarë dhe shfaqen edhe në euro me kursin fiks 1 € = 61,5 ден. Çmimi në euro pritet poshtë te euroja e plotë (p.sh. 10,23 € bëhet 10 €), pa qindarka. Për Maqedoninë e Veriut, klienti paguan në denarë dhe transporti kushton 160 ден. Për Kosovën, klienti paguan në euro (transporti 6 €); për Shqipërinë, klienti paguan në euro (transporti 8 €). Konvertimi në euro bëhet nga serveri dhe shuma për pagesë shfaqet në checkout para konfirmimit.
+Çmimet bazë të produkteve ruhen në denarë dhe shfaqen edhe në euro me kursin fiks 1 € = 61,5 ден. Çmimi në euro shfaqet pa qindarka: pjesa dhjetore deri në 0,50 ulet, ndërsa pjesa mbi 0,50 ngrihet në euron tjetër (p.sh. 20,50 € bëhet 20 € dhe 20,97 € bëhet 21 €). Për Maqedoninë e Veriut, klienti paguan në denarë dhe transporti kushton 160 ден. Për Kosovën, klienti paguan në euro (transporti 6 €); për Shqipërinë, klienti paguan në euro (transporti 8 €). Konvertimi në euro bëhet nga serveri dhe shuma për pagesë shfaqet në checkout para konfirmimit.
 
 ## Çfarë punon sot
 
