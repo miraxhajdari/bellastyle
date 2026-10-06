@@ -1,6 +1,6 @@
 const http=require('node:http'),fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto'),{promisify}=require('node:util'),{createStore}=require('./store');
 const scrypt=promisify(crypto.scrypt),ROOT=__dirname,PORT=Number(process.env.PORT||3000),PROD=process.env.NODE_ENV==='production',COOKIE='bella_session',SESSION_MS=7*24*60*60*1000,store=createStore();
-const EXCHANGE_RATE=61.5,toWholeEur=n=>Math.floor(n/EXCHANGE_RATE);
+const EXCHANGE_RATE=61.5,toWholeEur=n=>{const value=n/EXCHANGE_RATE,whole=Math.floor(value);return whole+(value-whole>0.5?1:0)};
 const mime={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8'};
 const attempts=new Map(),allowedStatus=['new','confirmed','shipped','completed','cancelled'];
 function cookies(req){return Object.fromEntries((req.headers.cookie||'').split(';').map(x=>x.trim()).filter(Boolean).map(x=>{const i=x.indexOf('=');return [x.slice(0,i),decodeURIComponent(x.slice(i+1))]}))}
