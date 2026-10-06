@@ -20,6 +20,8 @@ Llogaria lokale e administratorit krijohet një herë duke vendosur ADMIN_EMAIL 
 
 ## Çfarë punon sot
 
+- Katalog prove me 34 modele nga `Sheet1`, secili me fotografi lokale, çmim 6000 ден dhe masat e shënuara aty. Në këtë fletë produktet s’kanë emra, prandaj paraqiten si “Modeli 01” e kështu me radhë.
+- Klienti zgjedh masën para se ta shtojë produktin në shportë; porosia dhe paneli admin e ruajnë masën e zgjedhur.
 - Regjistrimi/hyrja e klientëve dhe ruajtja e fjalëkalimit si hash scrypt.
 - Porositë me pagesë në dorëzim, të dukshme për klientin e vet.
 - Panel administratori për shikimin/ndryshimin e statusit të porosive dhe shtimin e produkteve.

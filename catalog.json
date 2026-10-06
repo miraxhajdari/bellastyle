@@ -1,0 +1,473 @@
+[
+  {
+    "id": 1,
+    "name": "Modeli 01",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-01.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Modeli 02",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-02.jpg",
+    "sizes": [
+      "38",
+      "42",
+      "46"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Modeli 03",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-03.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Modeli 04",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-04.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Modeli 05",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-05.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Modeli 06",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-06.jpg",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Modeli 07",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-07.jpg",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Modeli 08",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-08.jpg",
+    "sizes": [
+      "STD",
+      "4"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Modeli 09",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-09.jpg",
+    "sizes": []
+  },
+  {
+    "id": 10,
+    "name": "Modeli 10",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-10.jpg",
+    "sizes": [
+      "40",
+      "44",
+      "46",
+      "50"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Modeli 11",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-11.jpg",
+    "sizes": [
+      "40",
+      "46"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Modeli 12",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-12.jpg",
+    "sizes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Modeli 13",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-13.jpg",
+    "sizes": [
+      "STD",
+      "4"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Modeli 14",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-14.jpg",
+    "sizes": [
+      "STD",
+      "4"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Modeli 15",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-15.jpg",
+    "sizes": [
+      "40",
+      "50"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Modeli 16",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-16.jpg",
+    "sizes": [
+      "40"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Modeli 17",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-17.jpg",
+    "sizes": [
+      "2",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Modeli 18",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-18.jpg",
+    "sizes": [
+      "3",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Modeli 19",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-19.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Modeli 20",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-20.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Modeli 21",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-21.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Modeli 22",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-22.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Modeli 23",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-23.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Modeli 24",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-24.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Modeli 25",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-25.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Modeli 26",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-26.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Modeli 27",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-27.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Modeli 28",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-28.jpg",
+    "sizes": [
+      "38",
+      "44"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Modeli 29",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-29.jpg",
+    "sizes": [
+      "38",
+      "42"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Modeli 30",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-30.jpg",
+    "sizes": [
+      "42",
+      "44",
+      "46"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Modeli 31",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-31.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Modeli 32",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-32.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "48"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Modeli 33",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-33.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "48"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Modeli 34",
+    "category": "Veshje",
+    "price": 6000,
+    "badge": "",
+    "image": "/products/model-34.jpg",
+    "sizes": [
+      "40",
+      "46",
+      "48"
+    ]
+  }
+]
