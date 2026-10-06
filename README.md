@@ -16,7 +16,7 @@ Llogaria lokale e administratorit krijohet një herë duke vendosur ADMIN_EMAIL 
 
 ## Dërgesat
 
-Arka llogarit transportin nga serveri: Maqedonia e Veriut 160 ден; Kosova 6 €; Shqipëria 8 €. Produktet aktualisht kanë çmime në MKD. Për Kosovë/Shqipëri, shuma shfaqet si nëntotali në MKD plus tarifa në EUR derisa të caktohet një kurs konvertimi.
+Çmimet bazë të produkteve ruhen në denarë dhe shfaqen edhe në euro me kursin fiks 1 € = 61,5 ден. Për Maqedoninë e Veriut, klienti paguan në denarë dhe transporti kushton 160 ден. Për Kosovën, klienti paguan në euro (transporti 6 €); për Shqipërinë, klienti paguan në euro (transporti 8 €). Konvertimi në euro bëhet nga serveri dhe shuma për pagesë shfaqet në checkout para konfirmimit.
 
 ## Çfarë punon sot
 
