@@ -1,6 +1,6 @@
 const http=require('node:http'),fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto'),{promisify}=require('node:util'),{createStore}=require('./store');
 const scrypt=promisify(crypto.scrypt),ROOT=__dirname,PORT=Number(process.env.PORT||3000),PROD=process.env.NODE_ENV==='production',COOKIE='bella_session',SESSION_MS=7*24*60*60*1000,store=createStore();
-const EXCHANGE_RATE=61.5,roundMoney=n=>Math.round((n+Number.EPSILON)*100)/100;
+const EXCHANGE_RATE=61.5,toWholeEur=n=>Math.floor(n/EXCHANGE_RATE);
 const mime={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8'};
 const attempts=new Map(),allowedStatus=['new','confirmed','shipped','completed','cancelled'];
 function cookies(req){return Object.fromEntries((req.headers.cookie||'').split(';').map(x=>x.trim()).filter(Boolean).map(x=>{const i=x.indexOf('=');return [x.slice(0,i),decodeURIComponent(x.slice(i+1))]}))}
@@ -39,8 +39,8 @@ const headers={'X-Frame-Options':'DENY','Referrer-Policy':'strict-origin-when-cr
   const shipping=shippingRates[customer.country];
   if(customer.name.length<2||customer.phone.length<5||customer.address.length<5||customer.city.length<2||!shipping)return fail(res,400,'Plotëso emrin, telefonin dhe adresën e dërgesës.');
   const catalog=await store.products(),lines=[];
-  for(const item of items){const prod=catalog.find(x=>x.id===Number(item.id)),qty=Math.floor(Number(item.qty));if(!prod||!Number.isInteger(qty)||qty<1||qty>20)return fail(res,400,'Një produkt ose sasia nuk është e vlefshme.');const unitPrice=shipping.currency==='EUR'?roundMoney(prod.price/EXCHANGE_RATE):prod.price;lines.push({productId:prod.id,name:prod.name,image:prod.image,unitPriceMKD:prod.price,unitPrice,currency:shipping.currency,qty,lineTotal:roundMoney(unitPrice*qty)})}
-  const subtotal=roundMoney(lines.reduce((n,i)=>n+i.lineTotal,0)),total=roundMoney(subtotal+shipping.fee),order={id:'BS-'+Date.now().toString(36).toUpperCase()+'-'+crypto.randomBytes(2).toString('hex').toUpperCase(),userId:who.id,email:who.email,customer,items:lines,subtotal,shippingFee:shipping.fee,shippingCurrency:shipping.currency,currency:shipping.currency,total,payment:'cash_on_delivery',status:'new',createdAt:new Date().toISOString()};
+  for(const item of items){const prod=catalog.find(x=>x.id===Number(item.id)),qty=Math.floor(Number(item.qty));if(!prod||!Number.isInteger(qty)||qty<1||qty>20)return fail(res,400,'Një produkt ose sasia nuk është e vlefshme.');const unitPrice=shipping.currency==='EUR'?toWholeEur(prod.price):prod.price;lines.push({productId:prod.id,name:prod.name,image:prod.image,unitPriceMKD:prod.price,unitPrice,currency:shipping.currency,qty,lineTotal:unitPrice*qty})}
+  const subtotal=lines.reduce((n,i)=>n+i.lineTotal,0),total=subtotal+shipping.fee,order={id:'BS-'+Date.now().toString(36).toUpperCase()+'-'+crypto.randomBytes(2).toString('hex').toUpperCase(),userId:who.id,email:who.email,customer,items:lines,subtotal,shippingFee:shipping.fee,shippingCurrency:shipping.currency,currency:shipping.currency,total,payment:'cash_on_delivery',status:'new',createdAt:new Date().toISOString()};
   const saved=await store.createOrder(order);return send(res,201,{order:saved},headers)
  }
  if(p==='/api/orders/mine'&&req.method==='GET'){const who=await requireUser(req,res);if(!who)return;return send(res,200,await store.ordersForUser(who.id),headers)}
