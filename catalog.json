@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "AySema — Modeli 01",
+    "name": "Modeli 01",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -16,7 +16,7 @@
   },
   {
     "id": 2,
-    "name": "AySema — Modeli 02",
+    "name": "Modeli 02",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -29,7 +29,7 @@
   },
   {
     "id": 3,
-    "name": "AySema — Modeli 03",
+    "name": "Modeli 03",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -44,7 +44,7 @@
   },
   {
     "id": 4,
-    "name": "AySema — Modeli 04",
+    "name": "Modeli 04",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -59,7 +59,7 @@
   },
   {
     "id": 5,
-    "name": "AySema — Modeli 05",
+    "name": "Modeli 05",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -74,7 +74,7 @@
   },
   {
     "id": 6,
-    "name": "Ashtar — Modeli 06",
+    "name": "Modeli 06",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -88,7 +88,7 @@
   },
   {
     "id": 7,
-    "name": "Ashtar — Modeli 07",
+    "name": "Modeli 07",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -102,7 +102,7 @@
   },
   {
     "id": 8,
-    "name": "Ashtar — Modeli 08",
+    "name": "Modeli 08",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -114,7 +114,7 @@
   },
   {
     "id": 9,
-    "name": "Katalea — Modeli 09",
+    "name": "Modeli 09",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -123,7 +123,7 @@
   },
   {
     "id": 10,
-    "name": "Katalea — Modeli 10",
+    "name": "Modeli 10",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -137,7 +137,7 @@
   },
   {
     "id": 11,
-    "name": "Katalea — Modeli 11",
+    "name": "Modeli 11",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -149,7 +149,7 @@
   },
   {
     "id": 12,
-    "name": "Katalea — Modeli 12",
+    "name": "Modeli 12",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -163,7 +163,7 @@
   },
   {
     "id": 13,
-    "name": "Katalea — Modeli 13",
+    "name": "Modeli 13",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -175,7 +175,7 @@
   },
   {
     "id": 14,
-    "name": "Katalea — Modeli 14",
+    "name": "Modeli 14",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -187,7 +187,7 @@
   },
   {
     "id": 15,
-    "name": "Katalea — Modeli 15",
+    "name": "Modeli 15",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -199,7 +199,7 @@
   },
   {
     "id": 16,
-    "name": "Katalea — Modeli 16",
+    "name": "Modeli 16",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -210,7 +210,7 @@
   },
   {
     "id": 17,
-    "name": "Katalea — Modeli 17",
+    "name": "Modeli 17",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -223,7 +223,7 @@
   },
   {
     "id": 18,
-    "name": "Katalea — Modeli 18",
+    "name": "Modeli 18",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -236,7 +236,7 @@
   },
   {
     "id": 19,
-    "name": "Lujy — Modeli 19",
+    "name": "Modeli 19",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -251,7 +251,7 @@
   },
   {
     "id": 20,
-    "name": "Lujy — Modeli 20",
+    "name": "Modeli 20",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -267,7 +267,7 @@
   },
   {
     "id": 21,
-    "name": "Lujy — Modeli 21",
+    "name": "Modeli 21",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -283,7 +283,7 @@
   },
   {
     "id": 22,
-    "name": "Lujy — Modeli 22",
+    "name": "Modeli 22",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -299,7 +299,7 @@
   },
   {
     "id": 23,
-    "name": "Lujy — Modeli 23",
+    "name": "Modeli 23",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -315,7 +315,7 @@
   },
   {
     "id": 24,
-    "name": "XFour — Modeli 24",
+    "name": "Modeli 24",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -329,7 +329,7 @@
   },
   {
     "id": 25,
-    "name": "XFour — Modeli 25",
+    "name": "Modeli 25",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -345,7 +345,7 @@
   },
   {
     "id": 26,
-    "name": "XFour — Modeli 26",
+    "name": "Modeli 26",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -360,7 +360,7 @@
   },
   {
     "id": 27,
-    "name": "XFour — Modeli 27",
+    "name": "Modeli 27",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -376,7 +376,7 @@
   },
   {
     "id": 28,
-    "name": "XFour — Modeli 28",
+    "name": "Modeli 28",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -388,7 +388,7 @@
   },
   {
     "id": 29,
-    "name": "Tane — Modeli 29",
+    "name": "Modeli 29",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -400,7 +400,7 @@
   },
   {
     "id": 30,
-    "name": "XFour — Modeli 30",
+    "name": "Modeli 30",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -413,7 +413,7 @@
   },
   {
     "id": 31,
-    "name": "XFour — Modeli 31",
+    "name": "Modeli 31",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -429,7 +429,7 @@
   },
   {
     "id": 32,
-    "name": "XFour — Modeli 32",
+    "name": "Modeli 32",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -444,7 +444,7 @@
   },
   {
     "id": 33,
-    "name": "XFour — Modeli 33",
+    "name": "Modeli 33",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -459,7 +459,7 @@
   },
   {
     "id": 34,
-    "name": "Giza — Modeli 34",
+    "name": "Modeli 34",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -472,7 +472,7 @@
   },
   {
     "id": 35,
-    "name": "Giza — Modeli 35",
+    "name": "Modeli 35",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -487,7 +487,7 @@
   },
   {
     "id": 36,
-    "name": "Giza — Modeli 36",
+    "name": "Modeli 36",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -501,7 +501,7 @@
   },
   {
     "id": 37,
-    "name": "Giza — Modeli 37",
+    "name": "Modeli 37",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -515,7 +515,7 @@
   },
   {
     "id": 38,
-    "name": "Mihir — Modeli 38",
+    "name": "Modeli 38",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -528,7 +528,7 @@
   },
   {
     "id": 39,
-    "name": "Mihir — Modeli 39",
+    "name": "Modeli 39",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -541,7 +541,7 @@
   },
   {
     "id": 40,
-    "name": "Mihir — Modeli 40",
+    "name": "Modeli 40",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -554,7 +554,7 @@
   },
   {
     "id": 41,
-    "name": "Mihir — Modeli 41",
+    "name": "Modeli 41",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -565,7 +565,7 @@
   },
   {
     "id": 42,
-    "name": "Tane — Modeli 42",
+    "name": "Modeli 42",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -580,7 +580,7 @@
   },
   {
     "id": 43,
-    "name": "Tane — Modeli 43",
+    "name": "Modeli 43",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -594,7 +594,7 @@
   },
   {
     "id": 44,
-    "name": "Tane — Modeli 44",
+    "name": "Modeli 44",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -605,7 +605,7 @@
   },
   {
     "id": 45,
-    "name": "Tane — Modeli 45",
+    "name": "Modeli 45",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -619,7 +619,7 @@
   },
   {
     "id": 46,
-    "name": "Tane — Modeli 46",
+    "name": "Modeli 46",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -633,7 +633,7 @@
   },
   {
     "id": 47,
-    "name": "Tane — Modeli 47",
+    "name": "Modeli 47",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -646,7 +646,7 @@
   },
   {
     "id": 48,
-    "name": "Tane — Modeli 48",
+    "name": "Modeli 48",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -659,7 +659,7 @@
   },
   {
     "id": 49,
-    "name": "Tane — Modeli 49",
+    "name": "Modeli 49",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -672,7 +672,7 @@
   },
   {
     "id": 50,
-    "name": "Tane — Modeli 50",
+    "name": "Modeli 50",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -683,7 +683,7 @@
   },
   {
     "id": 51,
-    "name": "Tane — Modeli 51",
+    "name": "Modeli 51",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -696,7 +696,7 @@
   },
   {
     "id": 52,
-    "name": "HR — Modeli 52",
+    "name": "Modeli 52",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -707,7 +707,7 @@
   },
   {
     "id": 53,
-    "name": "HR — Modeli 53",
+    "name": "Modeli 53",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -719,7 +719,7 @@
   },
   {
     "id": 54,
-    "name": "HR — Modeli 54",
+    "name": "Modeli 54",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -732,7 +732,7 @@
   },
   {
     "id": 55,
-    "name": "HR — Modeli 55",
+    "name": "Modeli 55",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -744,7 +744,7 @@
   },
   {
     "id": 56,
-    "name": "HR — Modeli 56",
+    "name": "Modeli 56",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -756,7 +756,7 @@
   },
   {
     "id": 57,
-    "name": "HR — Modeli 57",
+    "name": "Modeli 57",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -769,7 +769,7 @@
   },
   {
     "id": 58,
-    "name": "HR — Modeli 58",
+    "name": "Modeli 58",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -782,7 +782,7 @@
   },
   {
     "id": 59,
-    "name": "HR — Modeli 59",
+    "name": "Modeli 59",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -794,7 +794,7 @@
   },
   {
     "id": 60,
-    "name": "HR — Modeli 60",
+    "name": "Modeli 60",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -807,7 +807,7 @@
   },
   {
     "id": 61,
-    "name": "HR — Modeli 61",
+    "name": "Modeli 61",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -819,7 +819,7 @@
   },
   {
     "id": 62,
-    "name": "BYM — Modeli 62",
+    "name": "Modeli 62",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -831,7 +831,7 @@
   },
   {
     "id": 63,
-    "name": "BYM — Modeli 63",
+    "name": "Modeli 63",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -844,7 +844,7 @@
   },
   {
     "id": 64,
-    "name": "BYM — Modeli 64",
+    "name": "Modeli 64",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -857,7 +857,7 @@
   },
   {
     "id": 65,
-    "name": "BYM — Modeli 65",
+    "name": "Modeli 65",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -870,7 +870,7 @@
   },
   {
     "id": 66,
-    "name": "BYM — Modeli 66",
+    "name": "Modeli 66",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -883,7 +883,7 @@
   },
   {
     "id": 67,
-    "name": "HR — Modeli 67",
+    "name": "Modeli 67",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -895,7 +895,7 @@
   },
   {
     "id": 68,
-    "name": "HR — Modeli 68",
+    "name": "Modeli 68",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -907,7 +907,7 @@
   },
   {
     "id": 69,
-    "name": "HR — Modeli 69",
+    "name": "Modeli 69",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -918,7 +918,7 @@
   },
   {
     "id": 70,
-    "name": "HR — Modeli 70",
+    "name": "Modeli 70",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -930,7 +930,7 @@
   },
   {
     "id": 71,
-    "name": "Qashe — Modeli 71",
+    "name": "Modeli 71",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -941,7 +941,7 @@
   },
   {
     "id": 72,
-    "name": "Qashe — Modeli 72",
+    "name": "Modeli 72",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -952,7 +952,7 @@
   },
   {
     "id": 73,
-    "name": "Qashe — Modeli 73",
+    "name": "Modeli 73",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -961,7 +961,7 @@
   },
   {
     "id": 74,
-    "name": "Qashe — Modeli 74",
+    "name": "Modeli 74",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -972,7 +972,7 @@
   },
   {
     "id": 75,
-    "name": "Qashe — Modeli 75",
+    "name": "Modeli 75",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -983,7 +983,7 @@
   },
   {
     "id": 76,
-    "name": "Qashe — Modeli 76",
+    "name": "Modeli 76",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -994,7 +994,7 @@
   },
   {
     "id": 77,
-    "name": "Qashe — Modeli 77",
+    "name": "Modeli 77",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -1006,7 +1006,7 @@
   },
   {
     "id": 78,
-    "name": "HR — Modeli 78",
+    "name": "Modeli 78",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -1017,7 +1017,7 @@
   },
   {
     "id": 79,
-    "name": "HR — Modeli 79",
+    "name": "Modeli 79",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -1026,7 +1026,7 @@
   },
   {
     "id": 80,
-    "name": "HR — Modeli 80",
+    "name": "Modeli 80",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -1038,7 +1038,7 @@
   },
   {
     "id": 81,
-    "name": "HR — Modeli 81",
+    "name": "Modeli 81",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -1049,7 +1049,7 @@
   },
   {
     "id": 82,
-    "name": "HR — Modeli 82",
+    "name": "Modeli 82",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -1060,7 +1060,7 @@
   },
   {
     "id": 83,
-    "name": "HR — Modeli 83",
+    "name": "Modeli 83",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -1071,7 +1071,7 @@
   },
   {
     "id": 84,
-    "name": "HR — Modeli 84",
+    "name": "Modeli 84",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -1083,7 +1083,7 @@
   },
   {
     "id": 85,
-    "name": "HR — Modeli 85",
+    "name": "Modeli 85",
     "category": "Veshje",
     "price": 6000,
     "badge": "",
@@ -1094,7 +1094,7 @@
   },
   {
     "id": 86,
-    "name": "HR — Modeli 86",
+    "name": "Modeli 86",
     "category": "Veshje",
     "price": 6000,
     "badge": "",

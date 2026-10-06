@@ -1,6 +1,6 @@
 const fs=require('node:fs'),path=require('node:path');
 const seed=JSON.parse(fs.readFileSync(path.join(__dirname,'catalog.json'),'utf8'));
-const CATALOG_VERSION=2;
+const CATALOG_VERSION=3;
 class JsonStore{
 constructor(){this.file=path.join(__dirname,'data.json');try{this.db=JSON.parse(fs.readFileSync(this.file,'utf8'))}catch{this.db={users:[],sessions:[],orders:[],products:seed};this.save()}}
 save(){const t=this.file+'.tmp';fs.writeFileSync(t,JSON.stringify(this.db,null,2));fs.renameSync(t,this.file)}

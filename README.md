@@ -20,7 +20,7 @@ Llogaria lokale e administratorit krijohet një herë duke vendosur ADMIN_EMAIL 
 
 ## Çfarë punon sot
 
-- Katalog prove me 86 modele nga fleta `Products`, secili me fotografinë lokale, emrin/markën e tabelës, çmimin 6000 ден dhe masat e shënuara aty. Për 14 rreshta pa çmim në tabelë u përdor çmimi 6000 ден sipas konfirmimit. Tre modele pa masa të vlefshme kërkojnë kontakt me dyqanin.
+- Katalog prove me 86 modele nga fleta `Products`, secili me fotografinë lokale, emër neutral modeli, çmimin 6000 ден dhe masat e shënuara aty. Për 14 rreshta pa çmim në tabelë u përdor çmimi 6000 ден sipas konfirmimit. Tre modele pa masa të vlefshme kërkojnë kontakt me dyqanin.
 - Klienti zgjedh masën para se ta shtojë produktin në shportë; porosia dhe paneli admin e ruajnë masën e zgjedhur.
 - Regjistrimi/hyrja e klientëve dhe ruajtja e fjalëkalimit si hash scrypt.
 - Porositë me pagesë në dorëzim, të dukshme për klientin e vet.
