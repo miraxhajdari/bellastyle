@@ -1,5 +1,5 @@
 let products=[],cart=JSON.parse(localStorage.getItem('bella-cart')||'[]'),filter='Të gjitha',currentUser=null,pendingCheckout=false;
-if(localStorage.getItem('bella-cart-version')!=='products-86-v1'){cart=[];localStorage.setItem('bella-cart','[]');localStorage.setItem('bella-cart-version','products-86-v1')}
+if(localStorage.getItem('bella-cart-version')!=='products-96-v2'){cart=[];localStorage.setItem('bella-cart','[]');localStorage.setItem('bella-cart-version','products-96-v2')}
 const EXCHANGE_RATE=61.5,roundWholeEur=n=>{const whole=Math.floor(n);return whole+(n-whole>0.5?1:0)},toWholeEur=n=>roundWholeEur(n/EXCHANGE_RATE),formatMkd=n=>new Intl.NumberFormat('sq-MK',{maximumFractionDigits:0}).format(Math.round(n))+' ден',formatEur=n=>new Intl.NumberFormat('sq-AL',{style:'currency',currency:'EUR',minimumFractionDigits:0,maximumFractionDigits:0}).format(roundWholeEur(n)),formatDual=n=>formatMkd(n)+' · '+formatEur(toWholeEur(n));
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const productsNode=document.getElementById('products'),modalWrap=document.getElementById('modalWrap'),modalContent=document.getElementById('modalContent');
