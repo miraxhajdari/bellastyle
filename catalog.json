@@ -3,27 +3,22 @@
     "id": 1,
     "name": "Modeli 01",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4500,
     "badge": "",
-    "image": "/products/model-01.jpg",
+    "image": "/products/bella-catalog/model-01.jpg",
     "sizes": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46"
+      "48"
     ]
   },
   {
     "id": 2,
     "name": "Modeli 02",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4500,
     "badge": "",
-    "image": "/products/model-02.jpg",
+    "image": "/products/bella-catalog/model-02.jpg",
     "sizes": [
-      "38",
-      "42",
+      "44",
       "46"
     ]
   },
@@ -31,39 +26,167 @@
     "id": 3,
     "name": "Modeli 03",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4500,
     "badge": "",
-    "image": "/products/model-03.jpg",
+    "image": "/products/bella-catalog/model-03.png",
     "sizes": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46"
+      "48"
     ]
   },
   {
     "id": 4,
     "name": "Modeli 04",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4300,
     "badge": "",
-    "image": "/products/model-04.jpg",
+    "image": "/products/bella-catalog/model-04.png",
     "sizes": [
       "38",
       "40",
       "42",
       "44",
-      "46"
+      "46",
+      "48"
     ]
   },
   {
     "id": 5,
     "name": "Modeli 05",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5500,
     "badge": "",
-    "image": "/products/model-05.jpg",
+    "image": "/products/bella-catalog/model-05.png",
+    "sizes": [
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Modeli 06",
+    "category": "Veshje",
+    "price": 5500,
+    "badge": "",
+    "image": "/products/bella-catalog/model-06.jpg",
+    "sizes": [
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Modeli 07",
+    "category": "Veshje",
+    "price": 4500,
+    "badge": "",
+    "image": "/products/bella-catalog/model-07.jpg",
+    "sizes": [
+      "38",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Modeli 08",
+    "category": "Veshje",
+    "price": 4500,
+    "badge": "",
+    "image": "/products/bella-catalog/model-08.png",
+    "sizes": [
+      "40",
+      "42",
+      "44"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Modeli 09",
+    "category": "Veshje",
+    "price": 4500,
+    "badge": "",
+    "image": "/products/bella-catalog/model-09.jpg",
+    "sizes": [
+      "38",
+      "40",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Modeli 10",
+    "category": "Veshje",
+    "price": 4500,
+    "badge": "",
+    "image": "/products/bella-catalog/model-10.jpg",
+    "sizes": [
+      "38",
+      "42",
+      "44",
+      "46",
+      "48"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Modeli 11",
+    "category": "Veshje",
+    "price": 5000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-11.jpg",
+    "sizes": [
+      "38",
+      "42",
+      "44"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Modeli 12",
+    "category": "Veshje",
+    "price": 5000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-12.jpg",
+    "sizes": [
+      "42",
+      "46"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Modeli 13",
+    "category": "Veshje",
+    "price": 5000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-13.jpg",
+    "sizes": [
+      "40",
+      "42",
+      "44",
+      "46"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Modeli 14",
+    "category": "Veshje",
+    "price": 5500,
+    "badge": "",
+    "image": "/products/bella-catalog/model-14.jpg",
+    "sizes": [
+      "46"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Modeli 15",
+    "category": "Veshje",
+    "price": 5500,
+    "badge": "",
+    "image": "/products/bella-catalog/model-15.jpg",
     "sizes": [
       "38",
       "40",
@@ -73,12 +196,12 @@
     ]
   },
   {
-    "id": 6,
-    "name": "Modeli 06",
+    "id": 16,
+    "name": "Modeli 16",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-06.jpg",
+    "image": "/products/bella-catalog/model-16.jpg",
     "sizes": [
       "M",
       "L",
@@ -87,12 +210,12 @@
     ]
   },
   {
-    "id": 7,
-    "name": "Modeli 07",
+    "id": 17,
+    "name": "Modeli 17",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-07.jpg",
+    "image": "/products/bella-catalog/model-17.jpg",
     "sizes": [
       "M",
       "L",
@@ -101,33 +224,36 @@
     ]
   },
   {
-    "id": 8,
-    "name": "Modeli 08",
+    "id": 18,
+    "name": "Modeli 18",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-08.jpg",
+    "image": "/products/bella-catalog/model-18.jpg",
     "sizes": [
-      "STD",
+      "STD"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Modeli 19",
+    "category": "Veshje",
+    "price": 5000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-19.jpg",
+    "sizes": [
+      "1",
+      "3",
       "4"
     ]
   },
   {
-    "id": 9,
-    "name": "Modeli 09",
+    "id": 20,
+    "name": "Modeli 20",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-09.jpg",
-    "sizes": []
-  },
-  {
-    "id": 10,
-    "name": "Modeli 10",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-10.jpg",
+    "image": "/products/bella-catalog/model-20.jpg",
     "sizes": [
       "40",
       "44",
@@ -136,24 +262,24 @@
     ]
   },
   {
-    "id": 11,
-    "name": "Modeli 11",
+    "id": 21,
+    "name": "Modeli 21",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-11.jpg",
+    "image": "/products/bella-catalog/model-21.jpg",
     "sizes": [
       "40",
       "46"
     ]
   },
   {
-    "id": 12,
-    "name": "Modeli 12",
+    "id": 22,
+    "name": "Modeli 22",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-12.jpg",
+    "image": "/products/bella-catalog/model-22.jpg",
     "sizes": [
       "1",
       "2",
@@ -162,59 +288,57 @@
     ]
   },
   {
-    "id": 13,
-    "name": "Modeli 13",
+    "id": 23,
+    "name": "Modeli 23",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-13.jpg",
+    "image": "/products/bella-catalog/model-23.jpg",
     "sizes": [
-      "STD",
-      "4"
+      "STD"
     ]
   },
   {
-    "id": 14,
-    "name": "Modeli 14",
+    "id": 24,
+    "name": "Modeli 24",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-14.jpg",
+    "image": "/products/bella-catalog/model-24.jpg",
     "sizes": [
-      "STD",
-      "4"
+      "STD"
     ]
   },
   {
-    "id": 15,
-    "name": "Modeli 15",
+    "id": 25,
+    "name": "Modeli 25",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-15.jpg",
+    "image": "/products/bella-catalog/model-25.jpg",
     "sizes": [
       "40",
       "50"
     ]
   },
   {
-    "id": 16,
-    "name": "Modeli 16",
+    "id": 26,
+    "name": "Modeli 26",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-16.jpg",
+    "image": "/products/bella-catalog/model-26.jpg",
     "sizes": [
       "40"
     ]
   },
   {
-    "id": 17,
-    "name": "Modeli 17",
+    "id": 27,
+    "name": "Modeli 27",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4300,
     "badge": "",
-    "image": "/products/model-17.jpg",
+    "image": "/products/bella-catalog/model-27.jpg",
     "sizes": [
       "2",
       "5",
@@ -222,25 +346,24 @@
     ]
   },
   {
-    "id": 18,
-    "name": "Modeli 18",
+    "id": 28,
+    "name": "Modeli 28",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4300,
     "badge": "",
-    "image": "/products/model-18.jpg",
+    "image": "/products/bella-catalog/model-28.jpg",
     "sizes": [
       "3",
-      "4",
-      "6"
+      "4"
     ]
   },
   {
-    "id": 19,
-    "name": "Modeli 19",
+    "id": 29,
+    "name": "Modeli 29",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4300,
     "badge": "",
-    "image": "/products/model-19.jpg",
+    "image": "/products/bella-catalog/model-29.jpg",
     "sizes": [
       "38",
       "40",
@@ -250,162 +373,15 @@
     ]
   },
   {
-    "id": 20,
-    "name": "Modeli 20",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-20.jpg",
-    "sizes": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46",
-      "48"
-    ]
-  },
-  {
-    "id": 21,
-    "name": "Modeli 21",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-21.jpg",
-    "sizes": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46",
-      "48"
-    ]
-  },
-  {
-    "id": 22,
-    "name": "Modeli 22",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-22.jpg",
-    "sizes": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46",
-      "48"
-    ]
-  },
-  {
-    "id": 23,
-    "name": "Modeli 23",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-23.jpg",
-    "sizes": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46",
-      "48"
-    ]
-  },
-  {
-    "id": 24,
-    "name": "Modeli 24",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-24.jpg",
-    "sizes": [
-      "38",
-      "40",
-      "46",
-      "48"
-    ]
-  },
-  {
-    "id": 25,
-    "name": "Modeli 25",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-25.jpg",
-    "sizes": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46",
-      "48"
-    ]
-  },
-  {
-    "id": 26,
-    "name": "Modeli 26",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-26.jpg",
-    "sizes": [
-      "38",
-      "40",
-      "44",
-      "46",
-      "48"
-    ]
-  },
-  {
-    "id": 27,
-    "name": "Modeli 27",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-27.jpg",
-    "sizes": [
-      "38",
-      "40",
-      "42",
-      "44",
-      "46",
-      "48"
-    ]
-  },
-  {
-    "id": 28,
-    "name": "Modeli 28",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-28.jpg",
-    "sizes": [
-      "38",
-      "44"
-    ]
-  },
-  {
-    "id": 29,
-    "name": "Modeli 29",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-29.jpg",
-    "sizes": [
-      "38",
-      "42"
-    ]
-  },
-  {
     "id": 30,
     "name": "Modeli 30",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4300,
     "badge": "",
-    "image": "/products/model-30.jpg",
+    "image": "/products/bella-catalog/model-30.jpg",
     "sizes": [
+      "38",
+      "40",
       "42",
       "44",
       "46"
@@ -415,9 +391,9 @@
     "id": 31,
     "name": "Modeli 31",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4300,
     "badge": "",
-    "image": "/products/model-31.jpg",
+    "image": "/products/bella-catalog/model-31.jpg",
     "sizes": [
       "38",
       "40",
@@ -431,14 +407,15 @@
     "id": 32,
     "name": "Modeli 32",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4300,
     "badge": "",
-    "image": "/products/model-32.jpg",
+    "image": "/products/bella-catalog/model-32.jpg",
     "sizes": [
       "38",
       "40",
       "42",
       "44",
+      "46",
       "48"
     ]
   },
@@ -446,12 +423,11 @@
     "id": 33,
     "name": "Modeli 33",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4300,
     "badge": "",
-    "image": "/products/model-33.jpg",
+    "image": "/products/bella-catalog/model-33.jpg",
     "sizes": [
       "38",
-      "40",
       "42",
       "44",
       "48"
@@ -461,10 +437,11 @@
     "id": 34,
     "name": "Modeli 34",
     "category": "Veshje",
-    "price": 6000,
+    "price": 5000,
     "badge": "",
-    "image": "/products/model-34.jpg",
+    "image": "/products/bella-catalog/model-34.jpg",
     "sizes": [
+      "38",
       "40",
       "46",
       "48"
@@ -474,156 +451,156 @@
     "id": 35,
     "name": "Modeli 35",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3050,
     "badge": "",
-    "image": "/products/model-35.jpg",
+    "image": "/products/bella-catalog/model-35.jpg",
     "sizes": [
       "38",
       "40",
       "42",
       "44",
-      "46"
+      "46",
+      "48"
     ]
   },
   {
     "id": 36,
     "name": "Modeli 36",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3050,
     "badge": "",
-    "image": "/products/model-36.jpg",
+    "image": "/products/bella-catalog/model-36.jpg",
     "sizes": [
       "38",
       "40",
-      "42",
-      "44"
+      "44",
+      "46",
+      "48"
     ]
   },
   {
     "id": 37,
     "name": "Modeli 37",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3050,
     "badge": "",
-    "image": "/products/model-37.jpg",
+    "image": "/products/bella-catalog/model-37.jpg",
     "sizes": [
       "38",
       "40",
       "42",
-      "44"
+      "44",
+      "46",
+      "48"
     ]
   },
   {
     "id": 38,
     "name": "Modeli 38",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4000,
     "badge": "",
-    "image": "/products/model-38.jpg",
+    "image": "/products/bella-catalog/model-38.jpg",
     "sizes": [
-      "38",
-      "40",
-      "46"
+      "38"
     ]
   },
   {
     "id": 39,
     "name": "Modeli 39",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3000,
     "badge": "",
-    "image": "/products/model-39.jpg",
-    "sizes": [
-      "42",
-      "44",
-      "46"
-    ]
+    "image": "/products/bella-catalog/model-39.jpg",
+    "sizes": []
   },
   {
     "id": 40,
     "name": "Modeli 40",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3500,
     "badge": "",
-    "image": "/products/model-40.jpg",
+    "image": "/products/bella-catalog/model-40.jpg",
     "sizes": [
-      "38",
-      "42",
-      "46"
+      "44",
+      "48"
     ]
   },
   {
     "id": 41,
     "name": "Modeli 41",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3500,
     "badge": "",
-    "image": "/products/model-41.jpg",
+    "image": "/products/bella-catalog/model-41.jpg",
     "sizes": [
-      "38"
+      "40",
+      "42",
+      "46",
+      "48"
     ]
   },
   {
     "id": 42,
     "name": "Modeli 42",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3000,
     "badge": "",
-    "image": "/products/model-42.jpg",
+    "image": "/products/bella-catalog/model-42.jpg",
     "sizes": [
+      "38",
       "40",
       "42",
       "44",
-      "48",
-      "50"
+      "48"
     ]
   },
   {
     "id": 43,
     "name": "Modeli 43",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3500,
     "badge": "",
-    "image": "/products/model-43.jpg",
+    "image": "/products/bella-catalog/model-43.jpg",
     "sizes": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "38",
+      "40",
+      "42"
     ]
   },
   {
     "id": 44,
     "name": "Modeli 44",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3000,
     "badge": "",
-    "image": "/products/model-44.jpg",
+    "image": "/products/bella-catalog/model-44.jpg",
     "sizes": [
-      "1"
+      "40",
+      "48"
     ]
   },
   {
     "id": 45,
     "name": "Modeli 45",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3000,
     "badge": "",
-    "image": "/products/model-45.jpg",
+    "image": "/products/bella-catalog/model-45.jpg",
     "sizes": [
       "38",
-      "40",
       "42",
-      "44"
+      "44",
+      "46"
     ]
   },
   {
     "id": 46,
     "name": "Modeli 46",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3000,
     "badge": "",
-    "image": "/products/model-46.jpg",
+    "image": "/products/bella-catalog/model-46.jpg",
     "sizes": [
       "38",
       "40",
@@ -635,50 +612,54 @@
     "id": 47,
     "name": "Modeli 47",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2000,
     "badge": "",
-    "image": "/products/model-47.jpg",
+    "image": "/products/bella-catalog/model-47.jpg",
     "sizes": [
       "38",
       "40",
-      "42"
+      "42",
+      "44"
     ]
   },
   {
     "id": 48,
     "name": "Modeli 48",
     "category": "Veshje",
-    "price": 6000,
+    "price": 3500,
     "badge": "",
-    "image": "/products/model-48.jpg",
+    "image": "/products/bella-catalog/model-48.jpg",
     "sizes": [
       "38",
       "40",
-      "42"
+      "46"
     ]
   },
   {
     "id": 49,
     "name": "Modeli 49",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4000,
     "badge": "",
-    "image": "/products/model-49.jpg",
+    "image": "/products/bella-catalog/model-49.jpg",
     "sizes": [
-      "38",
-      "40",
-      "42"
+      "42",
+      "44",
+      "46"
     ]
   },
   {
     "id": 50,
     "name": "Modeli 50",
     "category": "Veshje",
-    "price": 6000,
+    "price": 4000,
     "badge": "",
-    "image": "/products/model-50.jpg",
+    "image": "/products/bella-catalog/model-50.jpg",
     "sizes": [
-      "42"
+      "38",
+      "40",
+      "42",
+      "46"
     ]
   },
   {
@@ -687,121 +668,120 @@
     "category": "Veshje",
     "price": 6000,
     "badge": "",
-    "image": "/products/model-51.jpg",
-    "sizes": [
-      "40",
-      "42",
-      "44"
-    ]
+    "image": "/products/bella-catalog/model-51.jpg",
+    "sizes": []
   },
   {
     "id": 52,
     "name": "Modeli 52",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1800,
     "badge": "",
-    "image": "/products/model-52.jpg",
+    "image": "/products/bella-catalog/model-52.jpg",
     "sizes": [
-      "M"
+      "40",
+      "42",
+      "44",
+      "48",
+      "50"
     ]
   },
   {
     "id": 53,
     "name": "Modeli 53",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2500,
     "badge": "",
-    "image": "/products/model-53.jpg",
+    "image": "/products/bella-catalog/model-53.jpg",
     "sizes": [
-      "S",
-      "M"
+      "1",
+      "2",
+      "3",
+      "4"
     ]
   },
   {
     "id": 54,
     "name": "Modeli 54",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2500,
     "badge": "",
-    "image": "/products/model-54.jpg",
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ]
+    "image": "/products/bella-catalog/model-54.jpg",
+    "sizes": []
   },
   {
     "id": 55,
     "name": "Modeli 55",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1500,
     "badge": "",
-    "image": "/products/model-55.jpg",
+    "image": "/products/bella-catalog/model-55.jpg",
     "sizes": [
-      "STD",
-      "2"
+      "38",
+      "40",
+      "42",
+      "44"
     ]
   },
   {
     "id": 56,
     "name": "Modeli 56",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1500,
     "badge": "",
-    "image": "/products/model-56.jpg",
+    "image": "/products/bella-catalog/model-56.jpg",
     "sizes": [
-      "36",
-      "38"
+      "38",
+      "40",
+      "42",
+      "44"
     ]
   },
   {
     "id": 57,
     "name": "Modeli 57",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2000,
     "badge": "",
-    "image": "/products/model-57.jpg",
+    "image": "/products/bella-catalog/model-57.jpg",
     "sizes": [
-      "S",
-      "M",
-      "L"
+      "38",
+      "40",
+      "42"
     ]
   },
   {
     "id": 58,
     "name": "Modeli 58",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2000,
     "badge": "",
-    "image": "/products/model-58.jpg",
+    "image": "/products/bella-catalog/model-58.jpg",
     "sizes": [
-      "S",
-      "M",
-      "L"
+      "38",
+      "40",
+      "42"
     ]
   },
   {
     "id": 59,
     "name": "Modeli 59",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2400,
     "badge": "",
-    "image": "/products/model-59.jpg",
+    "image": "/products/bella-catalog/model-59.jpg",
     "sizes": [
-      "1",
-      "2"
+      "38"
     ]
   },
   {
     "id": 60,
     "name": "Modeli 60",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2400,
     "badge": "",
-    "image": "/products/model-60.jpg",
+    "image": "/products/bella-catalog/model-60.jpg",
     "sizes": [
-      "36",
-      "38",
       "42"
     ]
   },
@@ -809,72 +789,156 @@
     "id": 61,
     "name": "Modeli 61",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2500,
     "badge": "",
-    "image": "/products/model-61.jpg",
+    "image": "/products/bella-catalog/model-61.jpg",
     "sizes": [
-      "1",
-      "2"
+      "40",
+      "42"
     ]
   },
   {
     "id": 62,
     "name": "Modeli 62",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1800,
     "badge": "",
-    "image": "/products/model-62.jpg",
+    "image": "/products/bella-catalog/model-62.jpg",
     "sizes": [
-      "1",
-      "3"
+      "M"
     ]
   },
   {
     "id": 63,
     "name": "Modeli 63",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1500,
     "badge": "",
-    "image": "/products/model-63.jpg",
+    "image": "/products/bella-catalog/model-63.jpg",
     "sizes": [
-      "1",
-      "2",
-      "3"
+      "S",
+      "M"
     ]
   },
   {
     "id": 64,
     "name": "Modeli 64",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1500,
     "badge": "",
-    "image": "/products/model-64.jpg",
+    "image": "/products/bella-catalog/model-64.jpg",
     "sizes": [
-      "1",
-      "2",
-      "3"
+      "S",
+      "M",
+      "L"
     ]
   },
   {
     "id": 65,
     "name": "Modeli 65",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1800,
     "badge": "",
-    "image": "/products/model-65.jpg",
+    "image": "/products/bella-catalog/model-65.jpg",
     "sizes": [
-      "1",
-      "2",
-      "3"
+      "STD",
+      "2"
     ]
   },
   {
     "id": 66,
     "name": "Modeli 66",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2200,
     "badge": "",
-    "image": "/products/model-66.jpg",
+    "image": "/products/bella-catalog/model-66.jpg",
+    "sizes": [
+      "36",
+      "38"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Modeli 67",
+    "category": "Veshje",
+    "price": 2200,
+    "badge": "",
+    "image": "/products/bella-catalog/model-67.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Modeli 68",
+    "category": "Veshje",
+    "price": 2200,
+    "badge": "",
+    "image": "/products/bella-catalog/model-68.jpg",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Modeli 69",
+    "category": "Veshje",
+    "price": 2200,
+    "badge": "",
+    "image": "/products/bella-catalog/model-69.jpg",
+    "sizes": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Modeli 70",
+    "category": "Veshje",
+    "price": 2000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-70.jpg",
+    "sizes": [
+      "36",
+      "38",
+      "42"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Modeli 71",
+    "category": "Veshje",
+    "price": 1500,
+    "badge": "",
+    "image": "/products/bella-catalog/model-71.jpg",
+    "sizes": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Modeli 72",
+    "category": "Veshje",
+    "price": 2000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-72.jpg",
+    "sizes": [
+      "1",
+      "3"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Modeli 73",
+    "category": "Veshje",
+    "price": 2000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-73.jpg",
     "sizes": [
       "1",
       "2",
@@ -882,223 +946,268 @@
     ]
   },
   {
-    "id": 67,
-    "name": "Modeli 67",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-67.jpg",
-    "sizes": [
-      "S-M",
-      "L-XL"
-    ]
-  },
-  {
-    "id": 68,
-    "name": "Modeli 68",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-68.jpg",
-    "sizes": [
-      "S",
-      "M"
-    ]
-  },
-  {
-    "id": 69,
-    "name": "Modeli 69",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-69.jpg",
-    "sizes": [
-      "38"
-    ]
-  },
-  {
-    "id": 70,
-    "name": "Modeli 70",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-70.jpg",
-    "sizes": [
-      "38",
-      "40"
-    ]
-  },
-  {
-    "id": 71,
-    "name": "Modeli 71",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-71.jpg",
-    "sizes": [
-      "38"
-    ]
-  },
-  {
-    "id": 72,
-    "name": "Modeli 72",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-72.jpg",
-    "sizes": [
-      "2"
-    ]
-  },
-  {
-    "id": 73,
-    "name": "Modeli 73",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-73.jpg",
-    "sizes": []
-  },
-  {
     "id": 74,
     "name": "Modeli 74",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2000,
     "badge": "",
-    "image": "/products/model-74.jpg",
+    "image": "/products/bella-catalog/model-74.jpg",
     "sizes": [
-      "2"
+      "1",
+      "2",
+      "3"
     ]
   },
   {
     "id": 75,
     "name": "Modeli 75",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2200,
     "badge": "",
-    "image": "/products/model-75.jpg",
+    "image": "/products/bella-catalog/model-75.jpg",
     "sizes": [
-      "1"
+      "1",
+      "2",
+      "3"
     ]
   },
   {
     "id": 76,
     "name": "Modeli 76",
     "category": "Veshje",
-    "price": 6000,
+    "price": 2200,
     "badge": "",
-    "image": "/products/model-76.jpg",
+    "image": "/products/bella-catalog/model-76.jpg",
     "sizes": [
-      "44"
+      "1",
+      "2",
+      "3"
     ]
   },
   {
     "id": 77,
     "name": "Modeli 77",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1500,
     "badge": "",
-    "image": "/products/model-77.jpg",
+    "image": "/products/bella-catalog/model-77.jpg",
     "sizes": [
-      "44",
-      "46"
+      "S-M",
+      "L-XL"
     ]
   },
   {
     "id": 78,
     "name": "Modeli 78",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1500,
     "badge": "",
-    "image": "/products/model-78.jpg",
-    "sizes": [
-      "2"
-    ]
-  },
-  {
-    "id": 79,
-    "name": "Modeli 79",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-79.jpg",
-    "sizes": []
-  },
-  {
-    "id": 80,
-    "name": "Modeli 80",
-    "category": "Veshje",
-    "price": 6000,
-    "badge": "",
-    "image": "/products/model-80.jpg",
+    "image": "/products/bella-catalog/model-78.jpg",
     "sizes": [
       "S",
       "M"
     ]
   },
   {
+    "id": 79,
+    "name": "Modeli 79",
+    "category": "Veshje",
+    "price": 1000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-79.jpg",
+    "sizes": [
+      "38"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Modeli 80",
+    "category": "Veshje",
+    "price": 1000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-80.jpg",
+    "sizes": [
+      "38",
+      "40"
+    ]
+  },
+  {
     "id": 81,
     "name": "Modeli 81",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1500,
     "badge": "",
-    "image": "/products/model-81.jpg",
+    "image": "/products/bella-catalog/model-81.jpg",
     "sizes": [
-      "S"
+      "38"
     ]
   },
   {
     "id": 82,
     "name": "Modeli 82",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1500,
     "badge": "",
-    "image": "/products/model-82.jpg",
+    "image": "/products/bella-catalog/model-82.jpg",
     "sizes": [
-      "S(36-38)"
+      "2"
     ]
   },
   {
     "id": 83,
     "name": "Modeli 83",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1500,
     "badge": "",
-    "image": "/products/model-83.jpg",
+    "image": "/products/bella-catalog/model-83.jpg",
     "sizes": [
-      "36"
+      "1",
+      "2"
     ]
   },
   {
     "id": 84,
     "name": "Modeli 84",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1800,
     "badge": "",
-    "image": "/products/model-84.jpg",
+    "image": "/products/bella-catalog/model-84.jpg",
     "sizes": [
-      "1",
-      "36"
+      "2"
     ]
   },
   {
     "id": 85,
     "name": "Modeli 85",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1800,
     "badge": "",
-    "image": "/products/model-85.jpg",
+    "image": "/products/bella-catalog/model-85.jpg",
     "sizes": [
-      "36"
+      "1"
     ]
   },
   {
     "id": 86,
     "name": "Modeli 86",
     "category": "Veshje",
-    "price": 6000,
+    "price": 1300,
     "badge": "",
-    "image": "/products/model-86.jpg",
+    "image": "/products/bella-catalog/model-86.jpg",
+    "sizes": [
+      "44"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Modeli 87",
+    "category": "Veshje",
+    "price": 1300,
+    "badge": "",
+    "image": "/products/bella-catalog/model-87.jpg",
+    "sizes": [
+      "44",
+      "46"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Modeli 88",
+    "category": "Veshje",
+    "price": 1000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-88.jpg",
+    "sizes": [
+      "2"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Modeli 89",
+    "category": "Veshje",
+    "price": 1200,
+    "badge": "",
+    "image": "/products/bella-catalog/model-89.jpg",
+    "sizes": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Modeli 90",
+    "category": "Veshje",
+    "price": 1500,
+    "badge": "",
+    "image": "/products/bella-catalog/model-90.jpg",
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Modeli 91",
+    "category": "Veshje",
+    "price": 1000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-91.jpg",
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Modeli 92",
+    "category": "Veshje",
+    "price": 1000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-92.jpg",
+    "sizes": [
+      "S(36-38)"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Modeli 93",
+    "category": "Veshje",
+    "price": 1000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-93.jpg",
+    "sizes": [
+      "36"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Modeli 94",
+    "category": "Veshje",
+    "price": 1000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-94.jpg",
+    "sizes": [
+      "1",
+      "36"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Modeli 95",
+    "category": "Veshje",
+    "price": 1000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-95.jpg",
+    "sizes": [
+      "36"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Modeli 96",
+    "category": "Veshje",
+    "price": 1000,
+    "badge": "",
+    "image": "/products/bella-catalog/model-96.jpg",
     "sizes": [
       "40"
     ]
