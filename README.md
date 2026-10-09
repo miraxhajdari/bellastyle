@@ -20,7 +20,7 @@ Llogaria lokale e administratorit krijohet një herë duke vendosur ADMIN_EMAIL 
 
 ## Çfarë punon sot
 
-- Katalog prove me 86 modele nga fleta `Products`, secili me fotografinë lokale, emër neutral modeli, çmimin 6000 ден dhe masat e shënuara aty. Për 14 rreshta pa çmim në tabelë u përdor çmimi 6000 ден sipas konfirmimit. Tre modele pa masa të vlefshme kërkojnë kontakt me dyqanin.
+- Katalogu ka 96 modele me emra neutralë (`Modeli 01` e tutje), fotografitë e integruara në Excel, çmimet reale të shitjes në denarë dhe masat e disponueshme. Sheet-i `Products for Project` përsërit listën disa herë; katalogu përdor një herë secilin nga 96 produktet. Tri produkteve pa masë të shënuar nuk u lejohet porosia derisa masa të plotësohet.
 - Klienti zgjedh masën para se ta shtojë produktin në shportë; porosia dhe paneli admin e ruajnë masën e zgjedhur.
 - Çdo masë e listuar trajtohet si një copë unike: kur porosia pranohet, masa hiqet nga disponueshmëria. Baza PostgreSQL e bën heqjen dhe ruajtjen e porosisë në një transaksion, që dy klientë të mos porosisin të njëjtën masë njëkohësisht.
 - Kur admini anulon një porosi të re ose të konfirmuar, masat e saj kthehen në disponueshmëri. Anulimi pas dorëzimit te kargoja nuk e kthen automatikisht stokun; artikulli duhet të jetë kthyer fizikisht para se të rikthehet në katalog.
@@ -41,7 +41,7 @@ Blueprint-i render.yaml krijon shërbimin Node dhe një PostgreSQL të menaxhuar
 4. Zgjidh planet e përcaktuara në render.yaml. Vendos ADMIN_EMAIL (emaili i administratorit) dhe ADMIN_PASSWORD (fjalëkalim i ri, unik, të paktën 14 karaktere) si sekrete në Render. Render gjeneron vetë MFA_ENCRYPTION_KEY gjatë krijimit të shërbimit. Mos përdor fjalëkalimin e llogarisë lokale dhe mos vendos sekrete në depo.
 5. Pasi të mbarojë deploy, hyr si admin, aktivizo MFA me Google Authenticator ose Microsoft Authenticator dhe ruaji kodet e rikuperimit jashtë kompjuterit. Pastaj kontrollo hyrjen përsëri me fjalëkalim + kod, regjistrimin e klientit provë, porosinë, izolimin e saj nga klientët e tjerë dhe ndryshimin e statusit.
 6. Ende nuk ke domen: faqja mund të funksionojë fillimisht në .onrender.com. Kur të blesh domen, shtoje te Settings → Custom Domains në Render dhe vendos DNS sipas vlerave që shfaq Render. TLS/HTTPS lëshohet automatikisht.
-7. Para marrjes së porosive reale, zëvendëso katalogun demonstrues me foto, çmime, madhësi/ngjyra, stok dhe politika reale të dërgesës/kthimit.
+7. Para marrjes së porosive reale, krahaso katalogun e importuar me Excel-in, plotëso tri masat që mungojnë dhe publiko kontaktin, privatësinë, dërgesën dhe kthimin.
 
 ### Backup-et e databazës
 
@@ -55,7 +55,7 @@ Planet e përcaktuara në `render.yaml` janë me pagesë. Kontrolloji çmimet ak
 
 ## Kufijtë para lançimit
 
-Para lançimit duhen vendosur çmimet dhe disponueshmëria reale, si dhe të publikohen politikat e privatësisë, dërgesës dhe kthimit. Të dhënat që mbledhen për porosi (emri, emaili, telefoni, adresa) janë të dhëna personale. Përcakto qëllimin dhe afatin e ruajtjes së tyre, kufizo qasjen te personat e autorizuar dhe kontrollo detyrimet sipas Ligjit për Mbrojtjen e të Dhënave Personale në Maqedoninë e Veriut me këshilltar lokal. Emaili i verifikimit dhe njoftimet email nuk janë kusht për funksionimin e porosive me pagesë në dorëzim.
+Para lançimit duhet konfirmuar disponueshmëria reale dhe të publikohen politikat e privatësisë, dërgesës dhe kthimit. Të dhënat që mbledhen për porosi (emri, emaili, telefoni, adresa) janë të dhëna personale. Përcakto qëllimin dhe afatin e ruajtjes së tyre, kufizo qasjen te personat e autorizuar dhe kontrollo detyrimet sipas Ligjit për Mbrojtjen e të Dhënave Personale në Maqedoninë e Veriut me këshilltar lokal. Emaili i verifikimit dhe njoftimet email nuk janë kusht për funksionimin e porosive me pagesë në dorëzim.
 
 Asnjë konfigurim nuk garanton siguri absolute. Para se ta shpallësh live, duhen kontrolluar mjedisi real, llogaria admin, DNS, databaza/backup-et, politikat dhe procesi i porosisë.
 
