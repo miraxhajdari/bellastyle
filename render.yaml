@@ -18,6 +18,8 @@ services:
         sync: false
       - key: ADMIN_PASSWORD
         sync: false
+      - key: MFA_ENCRYPTION_KEY
+        generateValue: true
 
 databases:
   - name: bellastyle-postgres
@@ -27,3 +29,4 @@ databases:
     plan: basic-256mb
     postgresMajorVersion: "18"
     ipAllowList: []
+
